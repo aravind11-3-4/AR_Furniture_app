@@ -10,7 +10,7 @@
  ![ARCore](https://img.shields.io/badge/ARcore-library-yellow?logo=Google)
  ![Sceneform](https://img.shields.io/badge/Sceneform-library-yellow?logo=Google)
  ![love](https://img.shields.io/badge/open%20%20source-%E2%9D%A4-red) 
- ![dev](https://img.shields.io/badge/developed%20by%20-Sachin%20Bhola-orange)
+ ![dev](https://img.shields.io/badge/developed%20by%20-aravind%20-orange)
  ![GitHub repo size](https://img.shields.io/github/repo-size/aravind/DecoratAR-Android-app)
 <hr>
 
